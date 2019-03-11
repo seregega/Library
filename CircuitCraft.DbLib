@@ -1,8 +1,8 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=G:\CircuitCraft\Library\CircuitCraft.xlsx;Extended Properties="Excel 12.0 Xml;HDR=Yes;IMEX=1"
-AddMode=3
+ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\CircuitCraft\Library\CircuitCraft.xlsx;Extended Properties="Excel 12.0 Xml;HDR=Yes;IMEX=1"
+AddMode=2
 RemoveMode=1
 UpdateMode=2
 ViewMode=0
@@ -19,25 +19,19 @@ LibrarySearchPath=Symbols;Footprints;3D
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
-LastFocusedTable=Audio Amplifier$
+LastFocusedTable=ADC$
 [Table1]
 SchemaName=
 TableName=ADC$
 Enabled=True
 UserWhere=0
 UserWhereText=[Part Number] = '{Part Number}'
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=94|Description0=191|Footprint Ref0=148|Footprint Path0=145|Library Ref0=110|Library Path0=112|Footprint Ref 20=101|Footprint Path 20=107|Footprint Ref 30=101|Footprint Path 30=107|Comment0=88|Value0=52|Manufacturer0=99|Supplier 10=75|Supplier Part Number 10=142|ComponentLink1Description0=170|ComponentLink1URL0=387|ComponentLink2Description0=170|ComponentLink2URL0=530|ComponentLink3Description0=170|ComponentLink3URL0=131|Supplier 20=75|Supplier Part Number 20=142|Price0=47|Type0=46|Device Package0=176|Series0=53|Number of Bits0=100|Samping Rate0=94|Number of Inputs0=114|Input Type0=140|Data Interface0=95|Configuration0=96|Ratio - S/H:ADC0=103|Number of A/D Converters0=158|Architecture0=85|Reference Type0=136|Voltage - Supply, Analog0=151|Voltage - Supply, Digital0=148|Features0=137
 [Table2]
 SchemaName=
 TableName=Audio Amplifier$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=96|Description0=208|Footprint Ref0=176|Footprint Path0=145|Library Ref0=127|Library Path0=121|Footprint Ref 20=101|Footprint Path 20=107|Footprint Ref 30=101|Footprint Path 30=107|Comment0=88|Value0=52|Manufacturer0=103|Supplier 10=75|Supplier Part Number 10=142|ComponentLink1Description0=170|ComponentLink1URL0=444|ComponentLink2Description0=170|ComponentLink2URL0=511|ComponentLink3Description0=170|ComponentLink3URL0=131|Supplier 20=75|Supplier Part Number 20=142|Price0=47|Type0=46|Device Package0=131|Series0=53|Output Type0=103|Max Output Power x Channels @ Load0=221|Voltage Supply0=101|Features0=67|Operating Temperature0=143
 [Table3]
 SchemaName=
 TableName=Battery Holder$
